@@ -1,4 +1,3 @@
-```cpp
 // Good Luck & Have Fun!
 #define setI(x) freopen(x,"r",stdin)
 #define setO(x) freopen(x,"w",stdout)
@@ -48,6 +47,4 @@ Sample Input:
 Sample Output:
 
 
-
 */
-```
